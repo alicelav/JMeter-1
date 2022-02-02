@@ -7,4 +7,4 @@ My homework on JMeter.
 + отправка нагрузок
 
 >Решение задания можно посмотреть в файле
-<a href="HW/hw_1.jmx">hw_1.jmx</a>
+<a href="HW/HW_1/hw_1.jmx">hw_1.jmx</a>
